@@ -57,7 +57,7 @@ Dataset contains total 17 columns namely :
 ## Tools Used  
 
 - **Tableau** - (Data visualization & dashboard creation)
-- **Excel / CSV** – (Data source)  <br><br>
+- **Excel / CSV** - (Data source)  <br><br>
 
 
 ## How To Use  
@@ -70,7 +70,7 @@ Dataset contains total 17 columns namely :
 
 ## Dashboard Previews
 
-![EV Dashboard](https://github.com/user-attachments/assets/75ca62c0-63aa-4b61-ad60-408b53a16260)<br><br>
+![EV Dashboard](https://github.com/user-attachments/assets/525b6bbe-3d05-4411-a378-57deba496ca6)<br><br>
 
 
 ## Conclusion
