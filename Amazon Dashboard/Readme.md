@@ -26,7 +26,7 @@ The data for this project is sourced from the Kaggle dataset:
 ## Dataset Columns
 Dataset contains total 12 columns namely :
 
-- **Region:**  The broad geographical region of the sale (e.g., "Europe", "Sub-Saharan Africa").
+- <code style="color : gold">**Region:** </code> The broad geographical region of the sale (e.g., "Europe", "Sub-Saharan Africa").
 - **Country:** The specific country within the region where the sale occurred.
 - **Item Type:** The category of the product sold (e.g., "Baby Food", "Office Supplies").
 - **Sales Channel:** The method of sale, either "Online" or "Offline".
