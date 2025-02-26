@@ -69,13 +69,13 @@ For more pages **Download the Dashboard Planning Images (`.png`)** from this rep
 ## Dashboard Previews
 
 ### Home Page -
-![Home Page](https://github.com/user-attachments/assets/3ed5929a-f323-4b02-8036-472ebe90fa7c)<br><br>
+![Home Page](https://github.com/user-attachments/assets/a79a5c1d-3526-4639-b214-0a500dfb1729)<br><br>
 
-### Executive Page -
-![Executive Page](https://github.com/user-attachments/assets/dc92f9a3-143f-419e-9fa1-4f22e7fdba3b)<br><br>
+### Detail Analysis -
+![Detail Analysis](https://github.com/user-attachments/assets/fcd65abc-603c-4023-9ce3-14f7cfcb27f0)<br><br>
 
-### Itemwise Insights Page -
-![Itemwise Insight Page](https://github.com/user-attachments/assets/bc445e88-0142-4856-a199-75bd467b2eef)<br><br>
+### Detail Analysis 2 -
+![Detail Analysis 2](https://github.com/user-attachments/assets/f22a0c91-d1a3-42b5-b8d9-568ef82c11e5)<br><br>
 
 
 ## Conclusion
