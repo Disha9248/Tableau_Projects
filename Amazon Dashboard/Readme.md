@@ -15,7 +15,7 @@ This project analyzes Amazon's sales data to uncover insights into revenue trend
 
 
 ## Project Level: Beginner
-This project is a beginners level project.To get me familiar with the basics of Pandas and to gain knowledge on how to handle real-world data analysis problems. I have worked with a small dataset and had used tableau to solve different tasks that are commonly encountered in data analytics.
+This project is a beginners level project.To get me familiar with the basics of Tableau and to gain knowledge on how to handle real-world data analysis problems. I have worked with a small dataset and had used tableau to solve different tasks that are commonly encountered in data analytics.
 
 
 ## Dataset
@@ -50,8 +50,8 @@ Dataset contains total 12 columns namely :
 
 ## Tools Used  
 
-- **Tableau** - (Data visualization & dashboard creation)
-- **Excalidraw** - (Data planning & dashboard planning)<br><br>
+- **Tableau** - Data visualization & dashboard creation
+- **Excalidraw** - Data planning & dashboard planning<br><br>
 
 
 ## How To Use  
