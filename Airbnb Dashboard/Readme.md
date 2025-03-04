@@ -17,7 +17,7 @@ This project analyzes **Airbnb listings and bookings** to understand pricing tre
 This project is a beginners level project.To get me familiar with the basics of Tableau and to gain knowledge on how to handle real-world data analysis problems. I have worked with a small dataset and had used tableau to solve different tasks that are commonly encountered in data analytics.<br><br>
 
 
-## Dataset Columns
+## Datasets
 Dataset contains 4 table namely :
 - **airbnd** - The main table
 - **dim_budget** - It contains country name along with budget.
