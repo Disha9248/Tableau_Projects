@@ -56,21 +56,31 @@ Dataset contains total 17 columns namely :
 
 ## Tools Used  
 
-- **Tableau** - (Data visualization & dashboard creation)
-- **Excel / CSV** - (Data source)  <br><br>
+- **Tableau** - Data visualization & dashboard creation
+- **Excel / CSV** - Data source  <br><br>
 
 
 ## How To Use  
 
 1. **Download the Tableau workbook (`.twbx`)** from this repository  
 2. **Open in Tableau Public**  
-3. **Connect to the dataset (`EV Dataset.csv`)**  
+3. **Connect to the dataset (`Dataset.zip`)**  
 4. **Explore the interactive dashboard**<br><br>
 
 
 ## Dashboard Previews
 
 ![EV Dashboard](https://github.com/user-attachments/assets/525b6bbe-3d05-4411-a378-57deba496ca6)<br><br>
+
+## Finding
+
+- The total number of EVs is 150,413, with 116,745 BEVs (77.62%) and 33,668 PHEVs (22.38%).
+- The trend shows a significant increase in adoption, particularly in 2022 and 2023, but a sharp decline in 2024 (0.6K vehicles).
+- The highest number of registered EVs is concentrated in a few states, while many states have significantly fewer vehicles.
+- Uneven distribution suggests a need for better charging infrastructure and incentives in low-adoption areas.
+- Tesla holds a dominant market share (52.70%), especially with Model Y and Model 3 leading sales.
+- 46.34% of vehicles have unknown CAFV (Clean Alternative Fuel Vehicle) eligibility, meaning buyers may not be utilizing government incentives effectively.
+- The average electric range is 67.83 miles, which may be a concern for long-distance drivers.Expanding charging networks and increasing battery efficiency could address this issue.<br><br>
 
 
 ## Conclusion
