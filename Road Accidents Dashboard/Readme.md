@@ -54,15 +54,15 @@ Dataset contains total 14 columns namely :
 
 ## Tools Used  
 
-- **Tableau** - (Data visualization & dashboard creation)
-- **Excel / CSV** - (Data source)  <br><br>
+- **Tableau** - Data visualization & dashboard creation
+- **Excel / CSV** - Data source <br><br>
 
 
 ## How To Use  
 
 1. **Download the Tableau workbook (`.twbx`)** from this repository  
 2. **Open in Tableau Public**  
-3. **Connect to the dataset (`Accidents Dataset.csv`)**  
+3. **Connect to the dataset (`Accidents Dataset.zip`)**  
 4. **Explore the interactive dashboard**<br><br>
 
 
@@ -73,6 +73,18 @@ Dataset contains total 14 columns namely :
 
 ## Conclusion
 This project provides an excellent opportunity for me as a beginners to gain tableau knowledge to solve practical data problems. By working through these, I gain hands-on experience with Visulization, graphs, date manipulation, and conditional logic.
+
+- Enhancing road conditions, especially single carriageways, and implementing better drainage systems can reduce accident risks.
+- Awareness campaigns focusing on vehicle-specific risks (motorcycles, tractors, etc.) and promoting safe driving in adverse weather conditions are essential.
+- Implementing strict traffic laws (speed limits, helmet/seatbelt regulations) in high-risk areas can help lower casualties.
+- Faster medical response in high-accident areas can minimize fatal casualties.
+- Leveraging technology like AI-driven traffic cameras and real-time monitoring can help predict and prevent accidents.
+
+
+
+
+
+
 
 
 
