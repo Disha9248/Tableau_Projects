@@ -17,11 +17,6 @@ This project analyzes **Airbnb listings and bookings** to understand pricing tre
 This project is a beginners level project.To get me familiar with the basics of Tableau and to gain knowledge on how to handle real-world data analysis problems. I have worked with a small dataset and had used tableau to solve different tasks that are commonly encountered in data analytics.<br><br>
 
 
-## Dataset
-The data for this project is sourced from the Kaggle dataset:
- - **Dataset Link**: [Amazon Dataset](https://www.kaggle.com/datasets/mithilesh9/amazon-sales-data-analysis)<br><br>
-
-
 ## Dataset Columns
 Dataset contains 4 table namely :
 - **airbnd** - The main table
