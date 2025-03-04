@@ -62,7 +62,7 @@ Dataset contains total 14 columns namely :
 
 1. **Download the Tableau workbook (`.twbx`)** from this repository  
 2. **Open in Tableau Public**  
-3. **Connect to the dataset (`Accidents Dataset.zip`)**  
+3. **Connect to the dataset (`Dataset.zip`)**  
 4. **Explore the interactive dashboard**<br><br>
 
 
